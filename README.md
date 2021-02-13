@@ -13,3 +13,6 @@ taxa kan se ting andre ikke kan osv,
 det hele burde give menning når du læser client.lua,
 
 Join min discord for support: https://discord.gg/2YmQwD4
+
+
+kus macc
